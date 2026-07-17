@@ -1,5 +1,4 @@
 -- Создание способа сохранения DDL функций
--- https://jira.simbirsoft.com/browse/SDB-1044
 
 -- Таблица для бэкапа, в которой хранятся версии функций
 DROP TABLE IF EXISTS simbirstore_test.functions_backup;
